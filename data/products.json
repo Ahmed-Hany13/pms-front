@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "description": "Smart Device",
+        "price": "45000",
+        "image": null
+    },
+    {
+        "id": 2,
+        "name": "AirPods",
+        "description": "Isolate sound",
+        "price": "2000",
+        "image": null
+    }
+]
